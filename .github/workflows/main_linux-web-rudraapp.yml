@@ -53,4 +53,4 @@ jobs:
           app-name: 'linux-web-rudraapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_122CBE87F0D041D9BEA263ECEC21D713 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B56A5D5D172D49A4BFE924484B4E526D }}
